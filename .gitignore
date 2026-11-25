@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# datasets
+export_1/*
+Datasets/
+*.zip
+*.xlsx
+*.csv
