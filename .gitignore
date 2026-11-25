@@ -230,3 +230,4 @@ Datasets/
 *.csv
 *.txt
 faiss_ckpt/*
+faiss_db/*
