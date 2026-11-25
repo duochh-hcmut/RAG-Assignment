@@ -228,3 +228,5 @@ Datasets/
 *.zip
 *.xlsx
 *.csv
+*.txt
+faiss_ckpt/*
